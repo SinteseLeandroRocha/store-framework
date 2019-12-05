@@ -6,7 +6,7 @@
         "orderBy": "OrderByTopSaleDESC",
         "paginationDotsVisibility": "desktopOnly",
         "productList": {
-          "maxItems": 8,
+          "maxItems": 10,
           "itemsPerPage": 4,
           "minItemsPerPage": 1,
           "scroll": "BY_PAGE",
