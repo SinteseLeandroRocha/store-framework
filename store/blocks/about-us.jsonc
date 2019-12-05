@@ -50,7 +50,7 @@
 },
 "tab-content.item#home2":{
   "children":[
-      "iframe#instagram"
+      "iframe"
   ],
   "props":{
     "tabId":"electronics"
@@ -63,7 +63,7 @@
     "font": "t-heading-3"
   }
 },
-"iframe#instagram": {
+"iframe": {
   "props": {
     "src": "https://www.instagram.com/p/B37Zfd6FobU/embed",
     "width": "800px",
@@ -163,12 +163,5 @@
         "textPosition": "CENTER",
         "font": "t-heading-3"
       }
-    },
-    "iframe": {
-      "props": {
-        "src": "http://someURL.com/resource",
-        "width": 100,
-        "heigth": 200
-      }
-    }
+    }    
 }
