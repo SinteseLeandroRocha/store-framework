@@ -45,13 +45,13 @@
        "props":{
           "width": "20%",
           "children": [
-             "filter-navigator.v3"
+            "search-content"
           ]
        }
     },
     "flex-layout.col#search":{
       "children": [
-         "search-content"
+         "filter-navigator.v3"
       ]
     }
 }
